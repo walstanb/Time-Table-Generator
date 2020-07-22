@@ -1,3 +1,4 @@
 # Time-Table-Generator
 
-Automated Time-Table generator specially designed for GTU curriculum
+Web Based Automated Time-Table generator specially designed for GTU curriculum.
+Fully fuctionial with a website for faculties and students.
